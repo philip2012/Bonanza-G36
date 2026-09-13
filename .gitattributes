@@ -1,0 +1,18 @@
+* text=auto
+*.xml text eol=lf
+*.nas text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.json text eol=lf
+*.txt text eol=lf
+*.ac text eol=lf
+*.gltf text eol=lf
+*.blend binary
+*.glb binary
+*.png binary
+*.jpg binary
+*.dds binary
+*.wav binary
+*.ogg binary

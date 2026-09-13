@@ -1,0 +1,22 @@
+Bonanza G36 for FlightGear
+
+Project author and maintainer
+-----------------------------
+Philips (GitHub: philip2012)
+https://github.com/philip2012
+Copyright (C) 2026 Philips — original project contributions and modifications.
+
+Generator provenance
+--------------------
+The initial aircraft, engine, propeller and control-system configurations were
+generated using Aeromatic++ 3.3.21 from JSBSim v1.3.1, developed by the JSBSim
+project contributors. Existing generator attribution is retained in the files.
+https://github.com/JSBSim-Team/jsbsim/tree/v1.3.1/utils/aeromatic%2B%2B
+
+Aircraft data references are recorded in docs/SOURCES.md.
+Subsequent project contributions are recorded in Git history. Add the authors
+and applicable license notices of imported components or assets when introduced.
+
+Project license: GNU General Public License, version 2 or any later version.
+SPDX-License-Identifier: GPL-2.0-or-later
+See COPYING and docs/LICENSING.md.
